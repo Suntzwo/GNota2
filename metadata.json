@@ -1,0 +1,5 @@
+{
+  "name": "Gestão Notarial 3.5.0",
+  "description": "Uma Single Page Application completa para gestão notarial, incluindo registro de atos, controle de despesas, relatórios e dashboards. Os dados são salvos localmente no navegador para total privacidade e funcionamento offline.",
+  "requestFramePermissions": []
+}
