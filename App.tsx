@@ -1,7 +1,7 @@
 
 import React, { useState, useEffect, useCallback } from 'react';
 import { AppState, View, Toast, ModalInfo } from './types';
-import { useLocalStorage } from '.C:\Users\User\Desktop\GESTAONOTARIAL\hooks';
+import { useLocalStorage } from './hooks/useLocalStorage';
 import { getInitialData } from './services/dataService';
 import Sidebar from './components/Sidebar';
 import Dashboard from './components/Dashboard';
